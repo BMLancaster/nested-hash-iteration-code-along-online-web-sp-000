@@ -14,6 +14,10 @@ require 'pry'
   #   }
   # }
   
-def remove_strawberry(contacts)
+def rcontacts.each do |person, contact_details_hash|
+  contact_details_hash.each do |attribute, data|
+    binding.pry
+  end
+endemove_strawberry(contacts)
 
 end
